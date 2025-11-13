@@ -44,3 +44,6 @@ Search for recipes from around the world, explore their details, watch tutorials
 | API | [TheMealDB API](https://www.themealdb.com/api.php) |
 | Data Persistence | Local Storage |
 | Version Control | Git + GitHub |
+
+---
+Live App LINK : [Recipe Looker](https://recipelooker.netlify.app/)
